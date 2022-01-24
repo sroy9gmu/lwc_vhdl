@@ -1,0 +1,101 @@
+Note:     Initializing circuit...
+Time: 0 ps  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     Performing test...
+Time: 100 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [Start] SAEAES - Test Vector: 1
+Time: 100 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     Number of AD blocks = 2
+Time: 100 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     Number of PT blocks = 0
+Time: 100 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [Start] Key Setup: 100000 ps
+Time: 100 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [Start] Test number: 0
+Time: 100 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [info] Initialization latency = 11
+Time: 320 ns  Iteration: 1  Process: /EK_tb/pCounter  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [Done] Key Setup: 325000 ps
+Time: 325 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [Start] Hash: 325000 ps
+Time: 325 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [info] Processing latency = 10
+Time: 520 ns  Iteration: 1  Process: /EK_tb/pCounter  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     Encryption of sa failed: actual = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Time: 525 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [info] Processing latency = 10
+Time: 760 ns  Iteration: 1  Process: /EK_tb/pCounter  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     Calculation of last sa failed: actual = 0A940BB5416EF045F1C39458C653EA5A
+Time: 770 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     Generation of IV failed: actual = 0A9509B6456BF642F9CA9E53CA5EE459
+Time: 770 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [End] Hash: 770000 ps
+Time: 770 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [Start] Encryption: 790000 ps
+Time: 790 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [info] Processing latency = 11
+Time: 1 us  Iteration: 1  Process: /EK_tb/pCounter  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [info] Processing latency = 10
+Time: 1220 ns  Iteration: 1  Process: /EK_tb/pCounter  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     Encryption of IV failed: actual = 9DC28337D6D3B4BE380DD72D8E5CC1A5
+Time: 1230 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [info] Processing latency = 10
+Time: 1440 ns  Iteration: 1  Process: /EK_tb/pCounter  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [info] Processing latency = 10
+Time: 1640 ns  Iteration: 1  Process: /EK_tb/pCounter  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     Ciphertext calculation failed: actual = 115697DF00B5BC8B2BC8453B6BCEE039
+Time: 1645 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [End] Encryption: 1645000 ps
+Time: 1645 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [Start] Decryption: 1645000 ps
+Time: 1645 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [End] Decryption: 1645000 ps
+Time: 1645 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [info] Processing latency = 10
+Time: 1840 ns  Iteration: 1  Process: /EK_tb/pCounter  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     Initializing circuit...
+Time: 1850 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     Performing test...
+Time: 1950 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [Start] SAEAES - Test Vector: 1
+Time: 1950 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     Number of AD blocks = 2
+Time: 1950 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     Number of PT blocks = 0
+Time: 1950 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [Start] Key Setup: 1950000 ps
+Time: 1950 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [Start] Test number: 0
+Time: 1950 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [info] Initialization latency = 12
+Time: 2180 ns  Iteration: 1  Process: /EK_tb/pCounter  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [Done] Key Setup: 2185000 ps
+Time: 2185 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [Start] Hash: 2185000 ps
+Time: 2185 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [info] Processing latency = 10
+Time: 2380 ns  Iteration: 1  Process: /EK_tb/pCounter  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     Encryption of sa passed
+Time: 2385 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [info] Processing latency = 10
+Time: 2620 ns  Iteration: 1  Process: /EK_tb/pCounter  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     Calculation of last sa passed
+Time: 2630 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     Generation of IV passed
+Time: 2630 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [End] Hash: 2630000 ps
+Time: 2630 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [Start] Encryption: 2650000 ps
+Time: 2650 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [info] Processing latency = 11
+Time: 2860 ns  Iteration: 1  Process: /EK_tb/pCounter  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [info] Processing latency = 10
+Time: 3080 ns  Iteration: 1  Process: /EK_tb/pCounter  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     Encryption of IV passed
+Time: 3090 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [info] Processing latency = 10
+Time: 3300 ns  Iteration: 1  Process: /EK_tb/pCounter  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [info] Processing latency = 10
+Time: 3500 ns  Iteration: 1  Process: /EK_tb/pCounter  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     Ciphertext calculation passed
+Time: 3505 ns  Iteration: 0  Process: /EK_tb/pSimHash  File: /home/sunanda/vivado_projects/project_ek_v1/project_ek_v1.srcs/sim_1/imports/new/EK_tb.vhd
+Note:     [End] Encryption: 3505000 ps
